@@ -45,11 +45,11 @@ public class InternCodingChallenge
 
 	public static void main(String args[])
 	{
-	     // In this case, the result should be "e".
-		 String testString = "aabbccddefg";
+	        // In this case, the result should be "e".
+		String testString = "aabbccddefg";
 
-		 String result = firstNonRepeated(testString);
+		String result = firstNonRepeated(testString);
 
-		 System.out.printf("The result is: %s ", result);
+		System.out.printf("The result is: %s ", result);
 	}
 }
